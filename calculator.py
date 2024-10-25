@@ -10,4 +10,8 @@ def multiply(a, b):
 		return a * b
 
 def devide_Free(a, b):
-    return a / b		
+    return a / b
+
+def say_hello():
+		print("hello")
+
