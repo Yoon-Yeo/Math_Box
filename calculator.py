@@ -11,3 +11,6 @@ def multiply(a, b):
 
 def devide_Free(a, b):
     return a / b		
+
+def square(a):
+	return a ** 2
